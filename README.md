@@ -1,1 +1,1 @@
-# gitops-compose
+# gitops-bundle
